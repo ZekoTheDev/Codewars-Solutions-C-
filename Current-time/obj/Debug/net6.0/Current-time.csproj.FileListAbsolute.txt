@@ -1,0 +1,15 @@
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Current-time/bin/Debug/net6.0/Current-time
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Current-time/bin/Debug/net6.0/Current-time.deps.json
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Current-time/bin/Debug/net6.0/Current-time.runtimeconfig.json
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Current-time/bin/Debug/net6.0/Current-time.dll
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Current-time/bin/Debug/net6.0/Current-time.pdb
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Current-time/obj/Debug/net6.0/Current-time.csproj.AssemblyReference.cache
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Current-time/obj/Debug/net6.0/Current-time.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Current-time/obj/Debug/net6.0/Current-time.AssemblyInfoInputs.cache
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Current-time/obj/Debug/net6.0/Current-time.AssemblyInfo.cs
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Current-time/obj/Debug/net6.0/Current-time.csproj.CoreCompileInputs.cache
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Current-time/obj/Debug/net6.0/Current-time.dll
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Current-time/obj/Debug/net6.0/refint/Current-time.dll
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Current-time/obj/Debug/net6.0/Current-time.pdb
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Current-time/obj/Debug/net6.0/Current-time.genruntimeconfig.cache
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Current-time/obj/Debug/net6.0/ref/Current-time.dll
