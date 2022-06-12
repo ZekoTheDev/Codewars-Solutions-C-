@@ -1,0 +1,15 @@
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Hello-world/bin/Debug/net6.0/Hello-world
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Hello-world/bin/Debug/net6.0/Hello-world.deps.json
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Hello-world/bin/Debug/net6.0/Hello-world.runtimeconfig.json
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Hello-world/bin/Debug/net6.0/Hello-world.dll
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Hello-world/bin/Debug/net6.0/Hello-world.pdb
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Hello-world/obj/Debug/net6.0/Hello-world.csproj.AssemblyReference.cache
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Hello-world/obj/Debug/net6.0/Hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Hello-world/obj/Debug/net6.0/Hello-world.AssemblyInfoInputs.cache
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Hello-world/obj/Debug/net6.0/Hello-world.AssemblyInfo.cs
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Hello-world/obj/Debug/net6.0/Hello-world.csproj.CoreCompileInputs.cache
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Hello-world/obj/Debug/net6.0/Hello-world.dll
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Hello-world/obj/Debug/net6.0/refint/Hello-world.dll
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Hello-world/obj/Debug/net6.0/Hello-world.pdb
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Hello-world/obj/Debug/net6.0/Hello-world.genruntimeconfig.cache
+/home/zeko/Desktop/repos/Codewars/Codewars-Solutions-C#/Codewars-Solutions-CSHARP/Hello-world/obj/Debug/net6.0/ref/Hello-world.dll
